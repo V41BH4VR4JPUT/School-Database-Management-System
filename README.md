@@ -2,12 +2,18 @@
 Creating a system for adding students in the database with many other features.
 <br>
 In this project i added feature like :
-         1. ADD DATA 
-         2. DISPLAY DATA 
-         3. DELETE DATA 
-         4. UPDATE DATA 
-         5. STREAM ALLOCATION 
-         6. EXIT \
+<br>
+ 1. ADD DATA 
+<br>
+ 2. DISPLAY DATA 
+<br>
+ 3. DELETE DATA 
+<br>
+ 4. UPDATE DATA 
+<br>
+ 5. STREAM ALLOCATION 
+<br>
+ 6. EXIT 
 <br>         
 1. adding new details of the student into the database using vectors from STL library.
 2. diplay of the database you created by adding data of students i used auto keyword with const so no one can change anything
