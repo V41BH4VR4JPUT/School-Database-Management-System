@@ -45,18 +45,6 @@ How to Run
    ./school_db_management
 5.	Follow the menu options to perform various operations.
 ________________________________________
-Example Menu
-
-*****-------------------------------------------------------------------*********
-         WELCOME TO THE SCHOOL DATABASE MANAGEMENT SYSTEM 
-         1. ADD DATA 
-         2. DISPLAY DATA 
-         3. DELETE DATA 
-         4. UPDATE DATA 
-         5. STREAM ALLOCATION 
-         6. EXIT 
-*****-------------------------------------------------------------------*********
-________________________________________
 Technologies Used
  •	Language: C++
  •	Libraries:
